@@ -5,11 +5,11 @@ import { Button } from "bootstrap";
 function Home() {
     return (
         <>
-            <div className="homeHeader">
-                <section class="vd-scl-sec0">
+            <section className="homeHeader">
+                {/* <div class="vd-scl-sec0">
                     <img src="https://www.videoschool.com/wp-content/uploads/2017/08/Courses-Photographer-1.jpg" />
 
-                </section>
+                </div> */}
 
 
                 <div class="container vd-scl-banner">
@@ -21,18 +21,17 @@ function Home() {
                             <button>START YOUR 1-MONTH FREE TRAIL</button>
                         </div>
                         <div className="col-md-6">
-                            <iframe width="600" height="400" src="https://www.youtube.com/embed/UiSEIpZKtcM?autoplay=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="500" height="300" src="https://www.youtube.com/embed/UiSEIpZKtcM?autoplay=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
 
                     </div>
 
                 </div>
-            </div>
+            </section>
 
             <section class="vd-scl-sec2">
                 <p class="instructor-survey">
-                    <a class="teacher-survey" href="https://www.videoschool.com/teacher-survey/">Would you like to teach with
-                        us?<u>Take Our Instructor Survey</u></a>
+                    <a class="teacher-survey" href="https://www.videoschool.com/udemy-courses/">View <span>ALL COURSES</span> Here</a>
                 </p>
 
             </section>
@@ -41,8 +40,9 @@ function Home() {
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-md-6"></div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 vd-sc1-sc3-p">
                             <h1 class="vd-scl-beginners">the best online courses for beginners</h1>
+                            <div className="blue_horizontal_line"></div>
                             <p class="home-paras">We’ll teach you the skills necessary to stand out from the crowd. Whether it’s a
                                 personal passion or a business pursuit, you can learn video, photography, art, design, marketing skills and
                                 more here.</p>
