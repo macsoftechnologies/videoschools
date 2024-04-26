@@ -1,0 +1,97 @@
+*{
+    margin-top: 0px;
+}
+.videos-1{
+    height: 60px;
+   width: 100%;
+   background-color: #202020;
+   text-align: center;
+}
+.vs-9{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.logo-1{
+  display: flex;
+  margin: auto;
+  height: 51px;
+  align-items: center;
+  
+}
+.vs-1{
+    box-shadow: 1px 1px 1px 0 var(--subtle);
+    width: 28%;
+    margin: auto;
+    border: 1px solid #e3e3e3!important;
+    padding: 35px;
+    background-color: #fff;
+
+}
+.fa{
+    position: absolute;
+    top: 10px;
+    right: 19px;
+}
+
+.password{
+    position: relative;
+}
+.form-check{
+    justify-content: space-between;
+}
+.vs-2{
+    margin-top: 30px;
+    
+}
+.vs-10{
+    font-size: 16px;
+}
+.vs-5{
+    text-align: center;
+    font-weight: 600;
+    font-family: inherit;
+    padding-bottom: 23px;
+    padding-top: 5px;
+}
+.vs-3{
+    border: 1px solid #48c1c4;
+    background-color: #48c1c4;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 38px!important;
+    margin-top: 30px;
+    
+}
+.vs-4{
+    border: 1px solid black;
+    border-radius: 38px!important;
+    
+}
+.videos-2{
+    color: #bac1c7;
+        height: 80px;
+       width: 100%;
+       background-color: #202020;
+       text-align: center;
+    
+}
+.btn{
+    width: 100%;
+    height: 56px;
+}
+.vs-7{
+    color: #48c1c4;
+}
+.vs-8{
+    padding-top: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.form-control-1{
+    width: 80%;
+}
+.vs-10{
+    padding-top: 30px;
+}

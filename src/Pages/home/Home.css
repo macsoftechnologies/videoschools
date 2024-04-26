@@ -1,0 +1,292 @@
+
+  .vd-scl-sec2{
+    background-color: #e00000;
+    
+  }
+  .homeHeader{
+    position: relative;
+  }
+  .vd-scl-sec0 img{
+    height: 100vh;
+    width: 1349px;
+  }
+  .vd-scl-banner{
+    position: absolute;
+    top: 0;
+    color: #fff;
+    
+  }
+  .vd-scl-banner h5{
+    font-size: 15px;
+    margin: 25px;
+  }
+  .vd-scl-banner h1{
+      font-family: fangsong;
+      font-size: 50px;
+      margin: 40px;
+      margin-top: 60px;
+      
+  }
+  .vd-scl-banner button{
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    padding: 15px 46px;
+    font-weight: 700;
+    margin: 20px;
+  }
+  .vd-scl-banner iframe{
+    margin: 50px;
+  }
+  .instructor-survey{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    
+  }
+  .teacher-survey{
+    color: white !important;
+  }
+  
+  .vd-scl-sec3{
+    background-image: url(https://www.videoschool.com/wp-content/uploads/2021/10/Phil-Ebiner-Transparent.png);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+  }
+  .vd-scl-beginners{
+    font-size: 31px;
+    font-weight: 700;
+    border-bottom: 2px solid #48c1c0;
+    margin-top: 30px;
+    
+  }
+  
+  .home-paras{
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    margin-top: 4%;
+  }
+  .home-h2s{
+    font-size: 31px;
+    font-weight: 700;
+  }
+  .home-aboutus{
+    text-align: center;
+    margin-top: 35px;
+  }
+  .aboutus-home{
+    border: none;
+    font-size: 20px;
+    padding: 10px 25px 10px 25px;
+    background-color: #48c1c0;
+    color: white;
+  }
+  .vd-scl-sec4{
+    background-color: #202020;
+  }
+  .fourcards-h1{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .fourcards-p{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+  }
+  .fourcards-button-div{
+    text-align: center;
+    margin-top: 20px;
+  }
+  .fourcards-button{
+    color: white;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    background-color: #48c1c0;
+    
+  }
+  .fourcard-imgs{
+    height: auto;
+    width: 100%;
+  }
+  .four-cards-row{
+    padding: 50px 0px 50px 0px;
+  }
+  
+  .vd-scl-sec5{
+    background-color: #48c1c0;
+  }
+  
+  .real-world{
+    margin-top: 80px;
+  }
+  .real-world-h1{
+    font-size: 30px;
+    font-weight: 700;
+  }
+  .real-world-p{
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .six-img-whole{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .first-six-img{
+    border-radius: 100%;
+    height: 110px;
+  }
+  
+  .three-img-whole {
+    display: flex;
+    justify-content: center;
+    padding-right: 50px;
+    margin-top: 15px;
+  }
+  
+  .first-three-img{
+    border-radius: 100%;
+    height: 110px;
+    /* padding-right: 25px; */
+  }
+  
+  .loadmore{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .loadmore-btn{
+    outline: none;
+    border: none;
+    background: rgba(224, 222, 222, 1);
+    padding: 5px 10px 5px 10px;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  
+  .loadmore-btn:hover{
+    background-color: #48c1c0;
+    color: white;
+  }
+  
+  .vd-scl-sec6{
+    position: relative;
+  }
+  .home-down-img{
+   
+    height: 100%;
+      width: 100%;
+  }
+  .home-down-data{
+    position: absolute;
+    top: 30%;
+    right: 25%;
+    
+  }
+  .get-discounts{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .skills-everyday{
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+    font-size: 20px;
+  }
+  
+  .discount-form{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+  }
+  .discount-input{
+    padding: 7px 0px 7px 0px;
+  }
+  .discount-divs{
+    margin-right: 15px;
+  }
+  .discount-btn{
+    font-size: 17px;
+      font-weight: 600;
+      color: white;
+      padding: 2px 30px 2px 30px;
+      border: none;
+      outline: none;
+      background-color: #05908e;
+  }
+  .notified{
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .notified-p{
+    font-size: 12px;
+      color: white;
+      font-weight: 500;
+  }
+  
+  .vd-scl-sec7{
+    background-color: black;
+  }
+  
+  /* 
+  #footer {
+    background-color: #333;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+  }
+  
+  #footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  #footer .fusion-social-networks-wrapper {
+    margin-top: 20px;
+  }
+  
+  #footer .fusion-social-network-icon {
+    font-size: 24px;
+    margin: 0 5px;
+  }
+  
+  #footer .fusion-social-network-icon:hover {
+    color: #ddd;
+  } */
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 5px;
+  }
+  
+  .footer-links {
+    margin-top: 20px;
+  }
+  
+  .social-links {
+    margin-top: 20px;
+  }
+  
+  .social-links img {
+    height: 30px;
+    width: 30px;
+  }

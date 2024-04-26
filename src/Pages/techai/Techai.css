@@ -1,0 +1,33 @@
+*{
+    margin-top: 0px;
+}
+.ws-1{
+    text-align: center;
+    color: var(--h1_typography-color);
+}
+.ws-3{
+    font-size: 29px;
+    line-height: 1.5;
+    text-align: center!important;
+    padding-top: 25px;
+    padding-bottom: 25px;
+   font-weight: 700;
+}
+.ws-4{
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.ws-5{
+    padding: 13px 29px;
+    font-size: 17px raleway;
+    margin-bottom: 30px;
+}
+.ws-6{
+    text-align: center;
+    color: #202020;
+}
+.ws-7{
+    text-align: center;
+    
+    margin-bottom: 20px;
+}

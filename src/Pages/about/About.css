@@ -1,0 +1,125 @@
+.AboutHeader{
+    background-color: #48c1c0;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.aboutimg img{
+    height: 100%;
+    width: 100%;
+}
+.aboutcontent{
+    display: flex;
+}
+ul{
+   list-style: none;
+   text-align: start;
+}
+.aboutcontent h1{
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.contentheader h1{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: justify;
+}
+.conenttext{
+    text-align: justify;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.contenttext1{
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.contenttext2{
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    
+}
+.vsoimg img{
+    height: 95vh;
+    width: 100%;
+}
+ 
+.vsocontent{
+    position: absolute;
+    top: 0;
+    padding-top: 10%;
+    background: transparent;
+    color: white;
+    text-align: center;
+ }
+
+.vso{
+    position: relative;
+}
+.vsoheader{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.vsotext p{
+    text-align: center;
+}
+.channel img{
+    width: 100%;
+}
+.channelcontent{
+    
+     text-align: justify;
+}
+
+.philtext{
+    text-align: center;
+   color: #48c1c0;
+   width: 50%;
+   margin: auto;
+    
+}
+.phil{
+    background-color: #202020;
+    display: flexbox;
+     
+}
+.philtext1{
+    text-align: left;
+
+}
+.philtext2{
+    text-align: left;
+}
+.philimg img{
+    text-align: center;
+    width: 100%;
+    
+}
+.philtext3{
+    text-align: left;
+}
+.philtext4{
+text-align: left;
+}
+.philtext5{
+ text-align: left;
+}
+.philtext6{
+text-align: left;
+}
+.ebiner{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.ebinertext{
+    text-align: center;
+}
+.ebinertext1{
+    text-align: left;
+}
+.edinerimg img{
+    text-align: center;
+    width: 100%;
+}

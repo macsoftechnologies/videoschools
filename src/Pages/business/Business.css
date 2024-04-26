@@ -1,0 +1,38 @@
+*{
+    margin-top: 0px;
+}
+.ws-1{
+    text-align: center;
+    color: var(--h1_typography-color);
+}
+.ws-2{
+    padding-top: 30px;
+    color: #ffffff;
+}
+.ws-3{
+    font-size: 40px;
+    line-height: 1.5;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+   font-weight: 700;
+   letter-spacing: 3px;
+}
+.ws-4{
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.ws-5{
+    padding: 13px 29px;
+    font-size: 17px raleway;
+    margin-bottom: 30px;
+}
+.ws-6{
+    text-align: center;
+    color: #202020;
+}
+.ws-7{
+    text-align: center;
+    
+    margin-bottom: 20px;
+}
